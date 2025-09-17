@@ -1,0 +1,6 @@
+a=10
+b=23.5
+c=False
+print("int:",a)
+print("float:",b)
+print("bool:",c)
