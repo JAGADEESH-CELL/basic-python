@@ -1,0 +1,4 @@
+a=input("enter your first name:")
+b=input("enter your second name:")
+print("first name:",a)
+print("second name:",b)
